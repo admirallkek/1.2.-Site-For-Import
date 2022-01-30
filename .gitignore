@@ -12,6 +12,7 @@ Thumbs.db
 /*.html_old
 .png_backup
 /img/*.png_backup
+*_backup
 
 # Icon must end with two \r
 Icon
